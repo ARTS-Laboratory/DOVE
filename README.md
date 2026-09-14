@@ -1,4 +1,4 @@
-# Drone Delivered Vibration Sensor
+# DOVE: Dynamics Observation and Vibration at the Edge
 UAV deployable sensor package for vibration-based structural health monitoring.
 
 
