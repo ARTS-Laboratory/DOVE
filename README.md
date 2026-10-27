@@ -35,7 +35,7 @@ Cite as:
   howpublished = {GitHub},    
   title  = {Dynamics Observation and Vibration at the Edge},    
   groups = {{ARTS-L}ab},    
-  url    = {https://github.com/ARTS-Laboratory/Drone-Delivered-Vibration-Sensor},   
+  url    = {[https://github.com/ARTS-Laboratory/Drone-Delivered-Vibration-Sensor](https://github.com/ARTS-Laboratory/DOVE/tree/master)},   
   note = {Accessed: Month dd, yyyy},   
 }
 
