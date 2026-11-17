@@ -33,9 +33,9 @@ Cite as:
 @Misc{ARTSLabDroneDeliveredVibration,     
   author = {{ARTS-L}ab},  
   howpublished = {GitHub},    
-  title  = {Drone Delivered Vibration Sensor},    
+  title  = {Dynamics Observation and Vibration at the Edge},    
   groups = {{ARTS-L}ab},    
-  url    = {https://github.com/ARTS-Laboratory/Drone-Delivered-Vibration-Sensor},   
+  url    = {https://github.com/ARTS-Laboratory/DOVE},   
   note = {Accessed: Month dd, yyyy},   
 }
 
