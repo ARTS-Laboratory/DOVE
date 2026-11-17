@@ -25,3 +25,7 @@ Designed for modal analysis using a network of sensors.
 ## Version 0.5
 1. Ryan's Work
 1. Focused on multilayered PCB with the same base package.
+
+## Version 0.6
+1. Joud, Asif & Fardin's Work
+1. Focused on adding the Solar System to the sensor, integrating BMS and RTC based shutdown.
