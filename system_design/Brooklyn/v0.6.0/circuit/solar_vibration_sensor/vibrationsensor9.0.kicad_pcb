@@ -7660,15 +7660,15 @@
 			(layer "B.SilkS")
 			(uuid "70c3fe57-4b1e-4012-8d2f-f44d4193d84d")
 		)
-		(fp_text user "HX-2S-JH10"
-			(at -2.223208 -0.67 0)
+		(fp_text user "HX-2S"
+			(at -0.42 -0.17 0)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "afb7509f-7598-4a0e-8fbe-a4792279c07f")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.1)
+					(size 0.2 0.2)
+					(thickness 0.05)
 				)
 				(justify left bottom mirror)
 			)
