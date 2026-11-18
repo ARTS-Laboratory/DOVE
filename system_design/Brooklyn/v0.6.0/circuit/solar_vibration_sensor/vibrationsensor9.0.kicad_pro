@@ -172,7 +172,6 @@
         {
           "td_allow_use_two_tracks": true,
           "td_curve_segcount": 0,
-          "td_enabled": false,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
@@ -184,7 +183,6 @@
         {
           "td_allow_use_two_tracks": true,
           "td_curve_segcount": 0,
-          "td_enabled": false,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
@@ -196,7 +194,6 @@
         {
           "td_allow_use_two_tracks": true,
           "td_curve_segcount": 0,
-          "td_enabled": false,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
@@ -488,7 +485,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "solar_vibration_sensor.kicad_pro",
+    "filename": "vibrationsensor9.0.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -507,17 +504,16 @@
         "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
-        "tuning_profile": "",
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
       }
     ],
     "meta": {
-      "version": 5
+      "version": 4
     },
-    "net_colors": {},
-    "netclass_assignments": {},
+    "net_colors": null,
+    "netclass_assignments": null,
     "netclass_patterns": []
   },
   "pcbnew": {
@@ -649,8 +645,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "solar_vibration_sensor.kicad_sch",
-        "name": "solar_vibration_sensor",
+        "filename": "vibrationsensor9.0.kicad_sch",
+        "name": "vibrationsensor9.0",
         "uuid": "00000000-0000-0000-0000-000000000000"
       }
     ]
