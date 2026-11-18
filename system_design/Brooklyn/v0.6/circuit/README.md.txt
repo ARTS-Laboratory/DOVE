@@ -1,1 +1,0 @@
-#Solar_vibration_sensor
