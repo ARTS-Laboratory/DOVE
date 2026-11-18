@@ -1,2 +1,2 @@
-#Solar_vibration_sensor
-#This version has been made using KiCad 9.0
+#Solar_vibration_sensor <br>
+# Created using KiCad 9.0
