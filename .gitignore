@@ -39,3 +39,8 @@ Thumbs.db
 __vm/
 *.vmps.xml
 *.vsarduino.h
+
+# =========================
+# Microsoft Office temporary files
+# =========================
+~$*
